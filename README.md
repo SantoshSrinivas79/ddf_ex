@@ -49,3 +49,8 @@ urlpatterns = patterns('',
 - **Configure dynamic forms with admin**: http://127.0.0.1:8000/admin/
 
 Thats it!
+
+#Recommendation
+
+- The code looks good but constrains ability to make changes to adapt to applications
+- Recommend to use code structure but continue to custom code in the main app to create dynamic forms
